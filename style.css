@@ -80,6 +80,12 @@ body {
 
 .main-video {
     border: 1px blue solid;
+    height: 720px;
+}
+
+.video {
+    width: 100%; 
+    height: 100%;
 }
 
 .sidebar-videos {
